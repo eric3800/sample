@@ -1,0 +1,18 @@
+[08/06 10:37:06] main INFO  singLog4j.usingLog4j : 1.info...
+[08/06 10:37:06] main ERROR singLog4j.usingLog4j : 1.This is error message!!!
+[08/06 10:37:06] main INFO  singLog4j.usingLog4j : info message
+[08/06 10:37:06] main WARN  singLog4j.usingLog4j : warn message
+[08/06 10:37:06] main ERROR singLog4j.usingLog4j : error message
+[08/06 10:37:06] main FATAL singLog4j.usingLog4j : fatal message
+[08/06 10:37:32] main INFO  singLog4j.usingLog4j : 1.info...
+[08/06 10:37:32] main ERROR singLog4j.usingLog4j : 1.This is error message!!!
+[08/06 10:37:32] main INFO  singLog4j.usingLog4j : info message
+[08/06 10:37:32] main WARN  singLog4j.usingLog4j : warn message
+[08/06 10:37:32] main ERROR singLog4j.usingLog4j : error message
+[08/06 10:37:32] main FATAL singLog4j.usingLog4j : fatal message
+[08/06 10:37:44] main INFO  singLog4j.usingLog4j : 1.info...
+[08/06 10:37:44] main ERROR singLog4j.usingLog4j : 1.This is error message!!!
+[08/06 10:37:44] main INFO  singLog4j.usingLog4j : info message
+[08/06 10:37:44] main WARN  singLog4j.usingLog4j : warn message
+[08/06 10:37:44] main ERROR singLog4j.usingLog4j : error message
+[08/06 10:37:44] main FATAL singLog4j.usingLog4j : fatal message

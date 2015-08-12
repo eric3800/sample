@@ -1,0 +1,6 @@
+[15/08/05 16:54:56][INFO][test.usingLog4j.usingLog4j-13] 1.info...
+[15/08/05 16:54:56][ERROR][test.usingLog4j.usingLog4j-15] 1.This is error message!!!
+[15/08/05 16:54:56][INFO][test.usingLog4j.usingLog4j-18] info message
+[15/08/05 16:54:56][WARN][test.usingLog4j.usingLog4j-19] warn message
+[15/08/05 16:54:56][ERROR][test.usingLog4j.usingLog4j-20] error message
+[15/08/05 16:54:56][FATAL][test.usingLog4j.usingLog4j-21] fatal message

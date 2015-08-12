@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Program/Java/sample/src/libs/castor-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program/Java/sample/src/libs/castor-1.3-core.jar"/>
+	<classpathentry kind="lib" path="D:/Program/Java/sample/src/libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Program/Java/sample/src/libs/jcore.jar"/>
+	<classpathentry kind="lib" path="D:/Program/Java/sample/src/libs/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Program/Java/sample/src/libs/netBankWebserviceClient.jar"/>
+	<classpathentry kind="lib" path="D:/Program/Java/sample/src/libs/quartz.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
